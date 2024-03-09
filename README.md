@@ -19,7 +19,7 @@ A unique analog clock that utilizes JavaScript for swift and smooth hand movemen
 ## Installation
 To run the Clock locally:
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine: `git clone https://github.com/JPHMarchB/analog-clock.git`
 2. Open the `index.html` file in your web browser.
 3. The analog clock will be displayed, showing the current time.
 
