@@ -25,3 +25,25 @@ function rotateClockHand(element, rotation) {
 
 // Ticks clock every second
 setInterval(clockTicker, 1000)
+
+// Dark Mode
+function darkMode() {
+    // Button color
+    document.getElementById("dark-mode").innerHTML = "Light Mode"
+    // Button background
+    document.getElementById("dark-mode").style.background = "#EEEEEE"
+    // Button color
+    document.getElementById("dark-mode").style.color = "#000"
+    // Background color
+    document.querySelector("body").style.background = "#222831"
+    // Clock body
+    document.querySelector(".clock-body").style.background = "#31363F"
+    // Clock border
+    document.querySelector(".clock-body").style.border = "25px solid #EEEEEE"
+    // Clock center
+    document.querySelector(".center").style.background = "#EEEEEE"
+    // Hour hand
+    document.querySelector(".hour-hand div").style.background = "#76ABAE"
+    // Min hand
+    document.querySelector(".min-hand div").style.background = "#76ABAE"
+}
