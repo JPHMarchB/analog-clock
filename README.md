@@ -1,9 +1,9 @@
-# Weather App
+# Analog Clock
 A unique analog clock that utilizes JavaScript for swift and smooth hand movements to display the current time, with an appealing interface created using CSS and HTML.
 
 ## Images
 ![Light Mode](https://github.com/JPHMarchB/analogue-clock/assets/153705879/7c197023-8328-464a-8896-f2181846d5ab)
-![Dark Mode]()
+![Dark Mode](https://github.com/JPHMarchB/analog-clock/assets/153705879/a94754cd-6b64-4b65-b9be-9edb7dd3ae22)
 
 ## Features
 - Displays the current time in a familiar analog format.
@@ -26,4 +26,4 @@ To run the Clock locally:
 ## License
 This project is licensed under the [Apache License 2.0](LICENSE) For more information view the LICENCE file.
 
-*Feel free to check out my other projects!*
+*Feel free to check out my other projects! [Github](https://github.com/JPHMarchB)*
